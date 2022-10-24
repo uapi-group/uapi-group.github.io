@@ -23,9 +23,9 @@ See [open PRs on github](https://github.com/uapi-group/specifications/pulls) for
 
 Please use the [specifications issue tracker](https://github.com/uapi-group/specifications/issues) to engage with the project.
 
-## Kernel features wishlist
+## Kernel Plumbing
 
-A collection of kernel features that, if implemented, would improve inter-operation of kernel and early / "plumbing level" is maintained here: https://github.com/uapi-group/kernel/blob/main/README.md.
+A collection of ideas for [kernel features](https://github.com/uapi-group/kernel) to improve low-level user space.
 
 ## Participate
 
