@@ -23,4 +23,4 @@ Then, start hugo locally (in the repo's `website` directory)to review your chang
 $ hugo server --minify --disableFastRender
 ```
 
-Review your changes at http://localhost:1313/specifications/ .
+Review your changes at http://localhost:1313/ .
