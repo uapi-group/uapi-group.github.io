@@ -2,6 +2,8 @@
 title: The Linux Userspace API (UAPI) group
 ---
 
+<span style="float:right"> ![uapi-group.png](/uapi-group.png) </span>
+
 # The Linux Userspace API (UAPI) group
 
 The userspace API ("uapi") group is a community for people with an interest in innovating how we build, deploy, and run modern Linux operating systems.
