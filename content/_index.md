@@ -26,3 +26,7 @@ Please use the [specifications issue tracker](https://github.com/uapi-group/spec
 ## Kernel features wishlist
 
 A collection of kernel features that, if implemented, would improve inter-operation of kernel and early / "plumbing level" is maintained here: https://github.com/uapi-group/kernel/blob/main/README.md.
+
+## Participate
+
+Check out the [UAPI group github org](https://github.com/uapi-group) to engage and to collaborate with the group.
