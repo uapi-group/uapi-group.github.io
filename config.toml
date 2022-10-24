@@ -1,0 +1,10 @@
+baseURL = "https://uapi-group.org"
+languageCode = "en-us"
+title = "The Linux Userspace API Group"
+theme = "hugo-book"
+
+[markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md files
+
+[params]
+  BookSearch = false
