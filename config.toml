@@ -15,13 +15,14 @@ theme = "hugo-book"
   name = "Kernel Feature Ideas"
   url = "https://uapi-group.org/kernel-features"
   weight = 12
+
 [[menu.after]]
   name = "⸻"
   weight = 20
 [[menu.after]]
   name = "Collaborate on Github"
   url = "https://github.com/uapi-group"
-  weight = 20
+  weight = 21
 
 [markup.goldmark.renderer]
   unsafe = true # Allow HTML in md files
