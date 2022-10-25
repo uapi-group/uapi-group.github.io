@@ -16,7 +16,7 @@ theme = "hugo-book"
   url = "https://uapi-group.org/kernel-features"
   weight = 12
 [[menu.after]]
-  name = "-"
+  name = "⸻"
   weight = 20
 [[menu.after]]
   name = "Collaborate on Github"
