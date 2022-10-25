@@ -15,6 +15,7 @@ Follow [@uapi-group](https://twitter.com/uapi_group) on twitter to catch the lat
 ## UAPI Group Specifications
 
 Submitted specifications are available at https://uapi-group.org/specifications.
+The Specifications landing page includes a glossary of terms used in documents across the UAPI organisation.
 
 See [open PRs on github](https://github.com/uapi-group/specifications/pulls) for work-in-progress specifications.
 
@@ -22,7 +23,7 @@ Please use the [specifications issue tracker](https://github.com/uapi-group/spec
 
 ## Generic Documents, Minutes, and Glossary
 
-Please find generic documents like meeting / summit minutes and a glossary of terms used across uapi-group documents at https://uapi-group.org/docs.
+Please find generic documents like meeting / summit minutes at https://uapi-group.org/docs.
 
 ## Kernel Feature Ideas
 

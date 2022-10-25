@@ -4,12 +4,12 @@ title = "The Linux Userspace API Group"
 theme = "hugo-book"
 
 [[menu.after]]
-  name = "General Documentation"
-  url = "https://uapi-group.org/docs"
-  weight = 10
-[[menu.after]]
   name = "Specifications"
   url = "https://uapi-group.org/specifications"
+  weight = 10
+[[menu.after]]
+  name = "General Documentation"
+  url = "https://uapi-group.org/docs"
   weight = 11
 [[menu.after]]
   name = "Kernel Feature Ideas"
