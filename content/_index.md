@@ -12,10 +12,6 @@ It serves as a central gathering place for specs, documentation, and ideas.
 
 Follow [@uapi-group](https://twitter.com/uapi_group) on twitter to catch the latest news!
 
-## Generic Documents, Minutes, and Glossary
-
-Please find generic documents like meeting / summit minutes and a glossary of terms used across uapi-group documents at https://uapi-group.org/docs.
-
 ## UAPI Group Specifications
 
 Submitted specifications are available at https://uapi-group.org/specifications.
@@ -24,9 +20,13 @@ See [open PRs on github](https://github.com/uapi-group/specifications/pulls) for
 
 Please use the [specifications issue tracker](https://github.com/uapi-group/specifications/issues) to engage with the project.
 
-## Kernel Plumbing
+## Generic Documents, Minutes, and Glossary
 
-A collection of ideas for [kernel features](https://github.com/uapi-group/kernel) to improve low-level user space.
+Please find generic documents like meeting / summit minutes and a glossary of terms used across uapi-group documents at https://uapi-group.org/docs.
+
+## Kernel Feature Ideas
+
+A collection of ideas for [kernel features](https://uapi-group.org/kernel-features) to improve low-level user space.
 
 ## Participate
 
