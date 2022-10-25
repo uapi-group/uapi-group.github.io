@@ -1,17 +1,18 @@
 ---
-title: The Linux Userspace API (UAPI) group
+title: The Linux Userspace API (UAPI) Group
+BookToC: false
 ---
 
 <span style="float:right"> ![uapi-group.png](/uapi-group.png) </span>
 
-# The Linux Userspace API (UAPI) group
+# The Linux Userspace API (UAPI) Group
 
 The userspace API ("uapi") group is a community for people with an interest in innovating how we build, deploy, and run modern Linux operating systems.
 It serves as a central gathering place for specs, documentation, and ideas.
 
 Follow [@uapi-group](https://twitter.com/uapi_group) on twitter to catch the latest news!
 
-## Generic documents, minutes, and glossary
+## Generic Documents, Minutes, and Glossary
 
 Please find generic documents like meeting / summit minutes and a glossary of terms used across uapi-group documents at https://uapi-group.org/docs.
 
