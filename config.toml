@@ -12,7 +12,7 @@ theme = "hugo-book"
   url = "https://uapi-group.org/specifications"
   weight = 11
 [[menu.after]]
-  name = "Kernel Features Ideas"
+  name = "Kernel Feature Ideas"
   url = "https://uapi-group.org/kernel-features"
   weight = 12
 [[menu.after]]
