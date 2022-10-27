@@ -7,10 +7,25 @@ BookToC: false
 
 # The Linux Userspace API (UAPI) Group
 
-The userspace API ("uapi") group is a community for people with an interest in innovating how we build, deploy, and run modern Linux operating systems.
+The userspace API ("uapi") group is a cross-distro community for people with an interest in innovating how we build, deploy, run, and safely update modern Linux operating systems.
 It serves as a central gathering place for specs, documentation, and ideas.
 
-Follow [@uapi-group](https://twitter.com/uapi-group) on twitter to catch the latest news!
+In scope of the group are secure boot mechanisms, kernel / disk image formats, TPM usage, safe and secure updates, and related topics.
+The group also cares about interop of image-based and/or immutable Linux distributions.
+
+The group was founded to discuss and align on common mechanisms, to prevent creating quasi standards by going with implementations first.
+Interested engineers are invited to join the discussions, and to represent the directions and interests of their projects and distributions.
+
+## Engage with the Group
+
+Our main means of engagement is Github.
+Please check out the group's [Github discussions](https://github.com/orgs/uapi-group/discussions) for general ongoing conversations - don't hesitate to tune in and share your thoughts!
+Feel free to start a new discussion if none exists for whatever brings you here - but please keep the group's focus in mind and do not stray off-topic.
+
+To engage with specific content please file issues and / or PRs directly to the [specifications](https://github.com/uapi-group/specifications/),
+[docs](https://github.com/uapi-group/docs/), and [kernel feature ideas](https://github.com/uapi-group/kernel-features/) repositories, respectively.
+
+To stay up to date on the group's activities there's also a Twitter account you can follow: [@uapi-group](https://twitter.com/uapi-group).
 
 ## UAPI Group Specifications
 
