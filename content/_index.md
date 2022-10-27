@@ -18,6 +18,17 @@ The group is in its inception, so the list of topics is by no means complete - o
 The UAPI group aims to establish specifications for common concepts shared among relevant parties.
 We are open to anyone who has an interest in constructive collaboration to to join the discussions, and to represent the directions and interests of their projects and distributions.
 
+Contributing members include people from 
+Red Hat / Fedora CoreOS ( [@travier](https://github.com/travier), [@dvdhrm](https://github.com/dvdhrm), [@gicmo](https://github.com/gicmo)),
+Flatpak ([@wjt](https://github.com/wjt)), mkosi ([@behrmann](https://github.com/behrmann)),
+gnomeos ([@alatiera](https://github.com/alatiera)),
+Meta ([DaanDeMeyer](https://github.com/DaanDeMeyer)),
+Arch Linux ([@Foxboron](https://github.com/Foxboron)),
+systemd ([@bluca](https://github.com/bluca), [poettering](https://github.com/poettering), [@brauner](https://github.com/brauner)),
+Flatcar ([@jepio](https://github.com/jepio), [@pothos](https://github.com/pothos), [@t-lo](https://github.com/t-lo))
+and others.
+
+
 ## Engage with the Group
 
 Our main means of engagement is Github.
