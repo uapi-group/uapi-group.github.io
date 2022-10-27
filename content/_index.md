@@ -32,3 +32,4 @@ A collection of ideas for [kernel features](https://uapi-group.org/kernel-featur
 ## Participate
 
 Check out the [UAPI group github org](https://github.com/uapi-group) to engage and to collaborate with the group.
+We also have a [forum for discussions (via Github Discussions)](https://github.com/orgs/uapi-group/discussions).
