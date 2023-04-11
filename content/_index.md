@@ -25,11 +25,12 @@ Microsoft, Amazon, and Meta.
 
 ## News
 
-* 2022-11-07: FOSDEM 2023 devroom accepted. <br />
-  We'll have a co-located mini-conference ("devroom" in FOSDEM lingo) at FOSDEM 2023 - on Saturday, February 4 - for the first half of the day (morning until noon).<br />
-  Drop in for talks on Image-based Linux and secure / attestable systems, and for a chat with other UAPI folks.<br />
-  Want to submit a talk? Our **Call for Participation** is currently open; head over to https://uapi-group.org/docs/conferences/2023-02-04__fosdem-devroom for more information.
+* 2023-04-06: "All Systems Go" - Call for Participation opened. <br />
+  All Systems Go, the foundational user-space Linux conference, has opened CfP proposals.
+  Head over to https://all-systems-go.io/ to check it out!
 
+* 2023-03-01: FOSDEM 2023 devroom videos released. <br />
+  Head over to https://uapi-group.org/docs/conferences/2023-02-04__fosdem-devroom for more information on talks given, and for the recordings.
 
 ## Engage with the Group
 
