@@ -20,7 +20,7 @@ The UAPI group aims to establish specifications for common concepts shared among
 We are open to anyone who has an interest in constructive collaboration to join the discussions, and to represent the directions and interests of their projects and distributions.
 
 Contributing members include people from Ubuntu Core, Debian, GNOME OS, Fedora CoreOS, Endless OS, Arch Linux, SUSE, Flatcar, 
-systemd, image-builder/osbuild, mkosi, tpm2-software, System Transparency, buildstream, BTRFS, rpm-ostree,
+systemd, image-builder/osbuild, mkosi, tpm2-software, System Transparency, buildstream, BTRFS, bootc, composefs, (rpm-)ostree,
 Microsoft, Amazon, and Meta.
 
 ## News
