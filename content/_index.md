@@ -25,9 +25,9 @@ Microsoft, Amazon, and Meta.
 
 ## News
 
-* 2023-04-06: "All Systems Go! 2023" - Video recordings released. <br />
+* 2024-09-26: "All Systems Go! 2024" - Video recordings released. <br />
   All Systems Go, the foundational user-space Linux conference, has published recordings of all talks.
-  Head over to https://www.youtube.com/playlist?list=PLWYdJViL9EioDNHn7xIqQJLyCayNPKeYf to check them out!
+  Head over to https://www.youtube.com/playlist?list=PLWYdJViL9EipIImmvuoGFAeS-lKeHH2DD to check them out!
 
 * 2023-03-01: FOSDEM 2023 devroom videos released. <br />
   Head over to https://uapi-group.org/docs/conferences/2023-02-04__fosdem-devroom for more information on talks given, and for the recordings.
