@@ -29,8 +29,8 @@ Microsoft, Amazon, and Meta.
   All Systems Go, the foundational user-space Linux conference, has published recordings of all talks.
   Head over to https://www.youtube.com/playlist?list=PLWYdJViL9EipIImmvuoGFAeS-lKeHH2DD to check them out!
 
-* 2023-03-01: FOSDEM 2023 devroom videos released. <br />
-  Head over to https://uapi-group.org/docs/conferences/2023-02-04__fosdem-devroom for more information on talks given, and for the recordings.
+* 2024-09-10: LPC 2024 Microconference videos released. <br />
+  Head over to https://lpc.events/event/18/sessions/206/ for more information on talks given, and for the recordings.
 
 ## Engage with the Group
 
