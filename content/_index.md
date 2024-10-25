@@ -25,6 +25,8 @@ Microsoft, Amazon, and Meta.
 
 ## News
 
+* 2024-10-25: "FOSDEM 2025" - [CFP for the Image-Based Linux and Boot Integrity Devroom is now open](https://uapi-group.org/docs/conferences/2025-02-02__fosdem-devroom/)
+
 * 2024-09-26: "All Systems Go! 2024" - Video recordings released. <br />
   All Systems Go, the foundational user-space Linux conference, has published recordings of all talks.
   Head over to https://www.youtube.com/playlist?list=PLWYdJViL9EipIImmvuoGFAeS-lKeHH2DD to check them out!
