@@ -48,6 +48,15 @@ To engage with specific content please file issues and / or PRs directly to the 
 
 To stay up to date on the group's activities there's also a Twitter account you can follow: [uapi-group](https://twitter.com/uapi_group).
 
+## Governance
+
+The UAPI group membership and its specifications are governed as a Free Software project, with the following rules:
+
+* Anyone is welcome to submit comments and reviews.
+* Every maintainer has the right to merge changes to all repositories, if they feel that they hold the expertise in the specific area.
+* Except for trivial changes, an approval from at least one maintainer who is not the author is required before merging.
+* Regular contributors may be invited to join the maintainer team.
+
 ## UAPI Group Specifications
 
 Submitted specifications are available at https://uapi-group.org/specifications.
