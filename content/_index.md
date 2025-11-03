@@ -25,14 +25,11 @@ Microsoft, Amazon, and Meta.
 
 ## News
 
-* 2024-10-25: "FOSDEM 2025" - [CFP for the Image-Based Linux and Boot Integrity Devroom is now open](https://uapi-group.org/docs/conferences/2025-02-02__fosdem-devroom/)
-
-* 2024-09-26: "All Systems Go! 2024" - Video recordings released. <br />
+* 2025-10-01: "All Systems Go! 2024" — Video recordings released. <br />
   All Systems Go, the foundational user-space Linux conference, has published recordings of all talks.
-  Head over to https://www.youtube.com/playlist?list=PLWYdJViL9EipIImmvuoGFAeS-lKeHH2DD to check them out!
+  Head over to https://media.ccc.de/c/asg2025/asg2025-eng to check them out!
 
-* 2024-09-10: LPC 2024 Microconference videos released. <br />
-  Head over to https://lpc.events/event/18/sessions/206/ for more information on talks given, and for the recordings.
+* 2025-10-25: "FOSDEM 2025" — [CFP for the Kernel Devroom is now open](https://uapi-group.org/docs/conferences/2026-01-31_fosdem-kernel-devroom/)
 
 ## Engage with the Group
 
