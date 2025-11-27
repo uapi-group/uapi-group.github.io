@@ -17,9 +17,6 @@ theme = "hugo-book"
   weight = 12
 
 [[menu.after]]
-  name = "⸻"
-  weight = 20
-[[menu.after]]
   name = "Collaborate on Github"
   url = "https://github.com/uapi-group"
   weight = 21
