@@ -5,20 +5,17 @@ theme = "hugo-book"
 
 [[menu.after]]
   name = "Specifications"
-  url = "https://uapi-group.org/specifications"
+  url = "/specifications"
   weight = 10
 [[menu.after]]
   name = "General Documentation"
-  url = "https://uapi-group.org/docs"
+  url = "/docs"
   weight = 11
 [[menu.after]]
   name = "Kernel Feature Ideas"
-  url = "https://uapi-group.org/kernel-features"
+  url = "/kernel-features"
   weight = 12
 
-[[menu.after]]
-  name = "⸻"
-  weight = 20
 [[menu.after]]
   name = "Collaborate on Github"
   url = "https://github.com/uapi-group"
@@ -29,3 +26,6 @@ theme = "hugo-book"
 
 [params]
   BookSearch = false
+  BookRepo = 'https://github.com/uapi-group/uapi-group.github.io'
+  BookEditLink = '{{ .Site.Params.BookRepo }}/edit/main/{{ .Path }}'
+  BookTheme = 'auto'
