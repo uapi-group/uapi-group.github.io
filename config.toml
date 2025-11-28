@@ -28,3 +28,4 @@ theme = "hugo-book"
   BookSearch = false
   BookRepo = 'https://github.com/uapi-group/uapi-group.github.io'
   BookEditLink = '{{ .Site.Params.BookRepo }}/edit/main/{{ .Path }}'
+  BookTheme = 'auto'
