@@ -8,8 +8,8 @@ theme = "hugo-book"
   url = "/specifications"
   weight = 10
 [[menu.after]]
-  name = "General Documentation"
-  url = "/docs"
+  name = "Conferences"
+  url = "/conferences"
   weight = 11
 [[menu.after]]
   name = "Kernel Feature Ideas"

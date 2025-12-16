@@ -29,7 +29,7 @@ Microsoft, Amazon, and Meta.
   All Systems Go, the foundational user-space Linux conference, has published recordings of all talks.
   Head over to https://media.ccc.de/c/asg2025/asg2025-eng to check them out!
 
-* 2025-10-25: "FOSDEM 2025" — [CFP for the Kernel Devroom is now open](https://uapi-group.org/docs/conferences/2026-01-31_fosdem-kernel-devroom/)
+* 2025-10-25: "FOSDEM 2025" — [CFP for the Kernel Devroom is now open](https://uapi-group.org/conferences/conferences/2026-01-31_fosdem-kernel-devroom/)
 
 ## Engage with the Group
 
@@ -41,7 +41,7 @@ Please keep the group's focus in mind and do not stray off-topic.
 
 Check out the group's repos at the [uapi group github org](https://github.com/uapi-group) to get an overview of existing work.
 To engage with specific content please file issues and / or PRs directly to the [specifications](https://github.com/uapi-group/specifications/),
-[docs](https://github.com/uapi-group/docs/), and [kernel feature ideas](https://github.com/uapi-group/kernel-features/) repositories, respectively.
+[conferences](https://github.com/uapi-group/conferences/), and [kernel feature ideas](https://github.com/uapi-group/kernel-features/) repositories, respectively.
 
 To stay up to date on the group's activities there's also a Twitter account you can follow: [uapi-group](https://twitter.com/uapi_group).
 
@@ -63,9 +63,9 @@ See [open PRs on github](https://github.com/uapi-group/specifications/pulls) for
 
 Please use the [specifications issue tracker](https://github.com/uapi-group/specifications/issues) to engage with the project.
 
-## Generic Documents, Minutes, and Glossary
+## Conference presentations and Image-Based Linux Summit minutes
 
-Please find generic documents like meeting / summit minutes at https://uapi-group.org/docs.
+Please find various conference presentations on UAPI group specifications and meeting minutes of our annual Image-Based Linux Summit at https://uapi-group.org/conferences.
 
 ## Kernel Feature Ideas
 
