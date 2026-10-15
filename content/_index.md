@@ -23,13 +23,55 @@ Contributing members include people from Ubuntu Core, Debian, GNOME OS, Fedora C
 systemd, image-builder/osbuild, mkosi, tpm2-software, System Transparency, buildstream, BTRFS, bootc, composefs, (rpm-)ostree,
 Microsoft, Amazon, and Meta.
 
-## News
+## Events and news
 
-* 2025-10-01: "All Systems Go! 2024" — Video recordings released. <br />
+* 2026-10-15: New specifications published: <br />
+  [UAPI.18 CLI Introspection](https://uapi-group.org/specifications/specs/cli_introspection/) (experimental draft),
+  [UAPI.19 Linux TPM NV Index Registry](https://uapi-group.org/specifications/specs/linux_tpm_nvindex_registry/), and
+  [UAPI.20 Varlink IPC](https://uapi-group.org/specifications/specs/varlink/).
+
+* 2026-10-04: "Image-Based Linux Summit 2026" — [Minutes published](https://uapi-group.org/conferences/minutes/2026-09-29__image-based-linux-summit/). <br />
+  The annual summit took place in Berlin on September 29th, the day before All Systems Go!.
+
+* 2026-10-01: "All Systems Go! 2026" — Video recordings released. <br />
   All Systems Go, the foundational user-space Linux conference, has published recordings of all talks.
-  Head over to https://media.ccc.de/c/asg2025/asg2025-eng to check them out!
+  Head over to https://media.ccc.de/c/asg2026/ to check them out!
+  See also the [schedule](https://cfp.all-systems-go.io/all-systems-go-2026/schedule/) and LWN's coverage:
+  [The state of systemd: 2026 edition](https://lwn.net/Articles/1099024/) and [KDE Linux at two](https://lwn.net/Articles/1099486/).
 
-* 2025-10-25: "FOSDEM 2025" — [CFP for the Kernel Devroom is now open](https://uapi-group.org/conferences/conferences/2026-01-31_fosdem-kernel-devroom/)
+* 2025-12-18: All specifications now carry UAPI numbers and most have reached version 1.0. <br />
+  Three new specifications were added:
+  [UAPI.13 VMClock](https://uapi-group.org/specifications/specs/vmclock/),
+  [UAPI.14 VMGenID](https://uapi-group.org/specifications/specs/vmgenid/), and
+  [UAPI.15 OSC 3008: Hierarchical Context Signalling](https://uapi-group.org/specifications/specs/osc_context/).
+
+* 2025-10-02: "Image-Based Linux Summit 2025" — Berlin, October 2nd. <br />
+  [Minutes](https://uapi-group.org/conferences/minutes/2025-10-02__image-based-linux-summit/).
+
+* 2025-10-01: "All Systems Go! 2025" — Video recordings released. <br />
+  Head over to https://media.ccc.de/c/asg2025/asg2025-eng to check them out!
+  See also the [schedule](https://cfp.all-systems-go.io/all-systems-go-2025/schedule/) and LWN's coverage:
+  [A security model for systemd](https://lwn.net/Articles/1042888/).
+
+* 2024-09-25: "All Systems Go! 2024" — Berlin, September 25th–26th. <br />
+  [Recordings](https://media.ccc.de/c/asg2024), [schedule](https://cfp.all-systems-go.io/all-systems-go-2024/schedule/).
+
+* 2024-09-24: "Image-Based Linux Summit 2024" — Berlin, September 24th. <br />
+  [Minutes](https://uapi-group.org/conferences/minutes/2024-09-24__image-based-linux-summit/),
+  LWN: [A report from the 2024 Image-Based Linux Summit](https://lwn.net/Articles/994704/).
+
+* 2023-09-13: "All Systems Go! 2023" — Berlin, September 13th–14th. <br />
+  The conference returned after a break in 2020–2022.
+  [Recordings](https://media.ccc.de/c/asg2023), [schedule](https://cfp.all-systems-go.io/all-systems-go-2023/schedule/).
+
+* 2023-09-12: "Image-Based Linux Summit 2023" — Berlin, September 12th. <br />
+  [Minutes](https://uapi-group.org/conferences/minutes/2023-09-12__image-based-linux-summit/),
+  LWN: [The 2023 Image-Based Linux Summit](https://lwn.net/Articles/946526/).
+
+* 2022-10-05: "Image-Based Linux Summit 2022" — Berlin, October 5th–6th. <br />
+  The first summit, which led to the creation of the UAPI group.
+  [Minutes](https://uapi-group.org/conferences/minutes/2022-10-05__image-based-linux-summit/),
+  LWN: [A report from the 2022 Image-Based Linux Summit](https://lwn.net/Articles/912774/).
 
 ## Engage with the Group
 
