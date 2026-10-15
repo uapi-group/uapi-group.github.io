@@ -25,11 +25,26 @@ Microsoft, Amazon, and Meta.
 
 ## News
 
-* 2025-10-01: "All Systems Go! 2024" — Video recordings released. <br />
-  All Systems Go, the foundational user-space Linux conference, has published recordings of all talks.
-  Head over to https://media.ccc.de/c/asg2025/asg2025-eng to check them out!
+* 2026-10-15: New specifications published: <br />
+  [UAPI.18 CLI Introspection](https://uapi-group.org/specifications/specs/cli_introspection/) (experimental draft),
+  [UAPI.19 Linux TPM NV Index Registry](https://uapi-group.org/specifications/specs/linux_tpm_nvindex_registry/), and
+  [UAPI.20 Varlink IPC](https://uapi-group.org/specifications/specs/varlink/).
 
-* 2025-10-25: "FOSDEM 2025" — [CFP for the Kernel Devroom is now open](https://uapi-group.org/conferences/conferences/2026-01-31_fosdem-kernel-devroom/)
+* 2026-10-04: "Image-Based Linux Summit 2026" — [Minutes published](https://uapi-group.org/conferences/minutes/2026-09-29__image-based-linux-summit/). <br />
+  The annual summit took place in Berlin on September 29th, the day before All Systems Go!.
+
+* 2026-10-01: "All Systems Go! 2026" — Video recordings released. <br />
+  All Systems Go, the foundational user-space Linux conference, has published recordings of all talks.
+  Head over to https://media.ccc.de/c/asg2026/ to check them out!
+
+* 2025-12-18: All specifications now carry UAPI numbers and most have reached version 1.0. <br />
+  Three new specifications were added:
+  [UAPI.13 VMClock](https://uapi-group.org/specifications/specs/vmclock/),
+  [UAPI.14 VMGenID](https://uapi-group.org/specifications/specs/vmgenid/), and
+  [UAPI.15 OSC 3008: Hierarchical Context Signalling](https://uapi-group.org/specifications/specs/osc_context/).
+
+* 2025-10-01: "All Systems Go! 2025" — Video recordings released. <br />
+  Head over to https://media.ccc.de/c/asg2025/asg2025-eng to check them out!
 
 ## Engage with the Group
 
